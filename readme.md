@@ -34,7 +34,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 - Github: raqmttrz.github.io
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -42,6 +41,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 Llegas a casa de tu amiga y ocurre un fuerte terremoto. Tendrás que decidir entre muchas opciones para averiguar si sabrías estar en una situación igual o si perderías la calma desde el primer minuto. 
+
+![escena timbre](https://user-images.githubusercontent.com/85738139/122107835-cafdc680-ce1b-11eb-9812-a3d0a8b16bc8.PNG)
+
 
 Así mismo tenemos uns test donde averiguarás que tipo de perona eres según tus actos en diferentes situaciones.
 
@@ -78,19 +80,16 @@ Este  proyecto es interesante porque a parte de esta inglés, es poco común que
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+Al ser mi primer juego hay muchos botones que tardan un poco más, cosas que no estan muy bien colocadas o que no se comprenden del todo, pero lo he intentado hacer con todo el cariño del mundo.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+
+Estoy muy contenta con el resultado y espero servir de inspiración para otros compañeros de otros cursos.
 
 
-
-
-
-
+![personaje 4](https://user-images.githubusercontent.com/85738139/122108155-27f97c80-ce1c-11eb-9c2f-be49cc677b04.png)
 
 
 **Recursos y materiales audiovisuales:**
@@ -103,6 +102,7 @@ Este  proyecto es interesante porque a parte de esta inglés, es poco común que
 
 - Hippani Animator 5.1
 - Autodesk Sketchkbook 
+
 
 
 

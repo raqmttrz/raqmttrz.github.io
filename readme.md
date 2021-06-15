@@ -2,6 +2,11 @@
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
+![personaje 3](https://user-images.githubusercontent.com/85738139/122108300-5414fd80-ce1c-11eb-8e5b-03d95fc63ba8.png)
+
+¡Hola amigos! Soy Raquel,os presento mi nuevo proyecto que he podido relizar este curso 2020/21 en clase. Ojalá aprendan mucho y espero que se diviertan navegando en él. 
+
+¡Un saludo!
 
 
 # 1 Datos 
@@ -32,7 +37,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github: raqmttrz.github.io
+- Web: raqmttrz.github.io
 
 
 # 2. Memoria del proyecto 
@@ -51,20 +56,14 @@ Así mismo tenemos uns test donde averiguarás que tipo de perona eres según tu
 
 ### Etapa 1: Ideación de proyecto
 
-
 **Motivación de la propuesta** 
 
 Este  proyecto es interesante porque a parte de esta inglés, es poco común que se trate un terremoto en un juego. 
 
-
-
 **Publico / audiencia**
 
 - Orientado a cualquier tipo de persona que tenga algo de base de idioma. 
-
-
-
-
+- 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
@@ -85,18 +84,14 @@ Al ser mi primer juego hay muchos botones que tardan un poco más, cosas que no 
 
 # 4. Conclusiones 
 
-
 Estoy muy contenta con el resultado y espero servir de inspiración para otros compañeros de otros cursos.
 
-
-![personaje 4](https://user-images.githubusercontent.com/85738139/122108155-27f97c80-ce1c-11eb-9c2f-be49cc677b04.png)
 
 
 **Recursos y materiales audiovisuales:**
 
 * Musica: Tired - Outdoors [Aesthetic No Copyright Music]
 * Ilustraciones: Autora Raquel Mateo Ruiz 
-
 
 **Herramientas utilizadas**
 
@@ -105,9 +100,6 @@ Estoy muy contenta con el resultado y espero servir de inspiración para otros c
 
 
 
-
 (imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
 
 Mayo 2020

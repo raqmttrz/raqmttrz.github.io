@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (Earthquake Alarm!)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,23 +8,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Earthquake Alarm!
 
-**Web:**   (url github.io)
+**Web:**   raqmttrz.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Raquel Mateo Ruiz
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca enseñar a los habitantes de lugares de mucha acción sísmica a saber actuar ante un terremoto y que se debe hacer y que no en diferentes casos.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego interactivo / Test 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![Diseño titulo](https://user-images.githubusercontent.com/85738139/122107724-ac97cb00-ce1b-11eb-9867-e0c9bf8d4363.png)
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 800x600px responsivo/o tamaño fijo 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**    Google Chrome / Safari / móviles android 
 
 **Tamaño proyecto:** 14MB 
 
@@ -34,59 +32,33 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
-
+- Github: raqmttrz.github.io
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### Storyboard: 
 
 
+Llegas a casa de tu amiga y ocurre un fuerte terremoto. Tendrás que decidir entre muchas opciones para averiguar si sabrías estar en una situación igual o si perderías la calma desde el primer minuto. 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Así mismo tenemos uns test donde averiguarás que tipo de perona eres según tus actos en diferentes situaciones.
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque a parte de esta inglés, es poco común que se trate un terremoto en un juego. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a cualquier tipo de persona que tenga algo de base de idioma. 
 
 
 
@@ -120,22 +92,17 @@ Este  proyecto es interesante porque ...
 
 
 
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Tired - Outdoors [Aesthetic No Copyright Music]
+* Ilustraciones: Autora Raquel Mateo Ruiz 
+
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Autodesk Sketchkbook 
 
 
 

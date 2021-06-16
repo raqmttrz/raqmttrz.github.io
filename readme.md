@@ -42,7 +42,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 2. Memoria del proyecto 
 
-### Storyboard: 
+### 2.1 Storyboard: 
 
 
 Llegas a casa de tu amiga y ocurre un fuerte terremoto. Tendrás que decidir entre muchas opciones, ¿Salir corriendo en pleno terremoto? ¿Mantener la calma? ¿Ambas? ¿O ninguna? 
@@ -51,6 +51,10 @@ Llegas a casa de tu amiga y ocurre un fuerte terremoto. Tendrás que decidir ent
 
 
 Así mismo tenemos uns test donde averiguarás que tipo de perona eres según tus actos en diferentes situaciones.
+
+### 2.2 Pantalla de navegación:
+
+<img width="860" alt="Captura de pantalla 2021-06-16 a las 20 44 18" src="https://user-images.githubusercontent.com/85738139/122275147-aa993f00-cee3-11eb-82c8-a58036cb5a90.png">
 
 
 

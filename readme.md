@@ -19,7 +19,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Raquel Mateo Ruiz
 
-**Resumen** : Este proyecto busca enseñar a los habitantes de lugares de mucha acción sísmica a saber actuar ante un terremoto y que se debe hacer y que no en diferentes casos.
+**Resumen** : Este proyecto busca enseñar a los habitantes de lugares con una alta acción sísmica a saber actuar ante un terremoto y como llevar la situación.
 
 **Estilo/género:**  Juego interactivo / Test 
 
@@ -45,7 +45,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### Storyboard: 
 
 
-Llegas a casa de tu amiga y ocurre un fuerte terremoto. Tendrás que decidir entre muchas opciones para averiguar si sabrías estar en una situación igual o si perderías la calma desde el primer minuto. 
+Llegas a casa de tu amiga y ocurre un fuerte terremoto. Tendrás que decidir entre muchas opciones, ¿Salir corriendo en pleno terremoto? ¿Mantener la calma? ¿Ambas? ¿O ninguna? 
 
 ![escena timbre](https://user-images.githubusercontent.com/85738139/122107835-cafdc680-ce1b-11eb-9812-a3d0a8b16bc8.PNG)
 
@@ -58,23 +58,25 @@ Así mismo tenemos uns test donde averiguarás que tipo de perona eres según tu
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque a parte de esta inglés, es poco común que se trate un terremoto en un juego. 
+La motivación de este proyeto ha sido principalmente para criticar la situación que se vivió a principios del año 2021 con los terremotos. Mucha gente actuó dejandose llevar por el pánico y esto hizo que la pandemia mundial del covid empeorara por los agrupamientos y fiestas que se montaron en esos días donde el miedo por el terremoto era una escusapara salir a la calle.  
 
 **Publico / audiencia**
 
-- Orientado a cualquier tipo de persona que tenga algo de base de idioma. 
-- 
+- Orientado a cualquier tipo de persona, no obstante, debido a que me parecia un reto hacerlo en otra lengua que no fuera mi natal,las personas que jueguen deberán de tener al menos un mínimo de nivel de inglés para poder entenderlo.
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+El juego se divide en los siguientes apartados:
+- Introducción
+- Cargando 1-7
+- Menu 
+- Trailer
+- Test 
+- Juego
+- Galería
+- Créditos
 
 
 ### Etapa 3: Problemas identificados
@@ -84,7 +86,9 @@ Al ser mi primer juego hay muchos botones que tardan un poco más, cosas que no 
 
 # 4. Conclusiones 
 
-Estoy muy contenta con el resultado y espero servir de inspiración para otros compañeros de otros cursos.
+Estoy muy contenta con el resultado debido a que lo he provado con muchos amigos y me han dicho que les ha gustado bastante y que se han divertido al ver que muchos de ellos si sabrían superar una situación así y otros acabarían haciendo locuras. 
+
+Espero que este juego no solo divierta a los jugadores sino que de la importancia que tiene mantener la calma en casos como este.
 
 
 
